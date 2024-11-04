@@ -1,0 +1,21 @@
+body {
+    background: black;
+    color: white;
+    font-family: "Kablammo", system-ui;
+}
+header {
+    border-bottom: solid 2px blue;
+    padding: 0px;
+    font-size: 32px;
+    color: blue;
+}
+section {
+    background: rgb(147, 69, 147);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 5%;
+}
